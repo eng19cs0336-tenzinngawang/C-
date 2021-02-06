@@ -10,7 +10,7 @@ void main()
 	printf("Enter the Value of b\n");
 	scanf("%f", &b);
 
-	vol =  1/3 of ((h x d x b) + ( d divided by b))
+	vol = ((h * d * b) + ( d / b))/3;
 	
-	printf("Volume of Tromboloid is %f", vol)
+	printf("Volume of Tromboloid is %f", vol);
 }
