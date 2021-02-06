@@ -24,6 +24,6 @@ void main()
 	int x, y, z;
 	x=input();
 	y=input();
-z=sum(x, y);
-output(x, y, z);
+	z=sum(x, y);
+	output(x, y, z);
 }
